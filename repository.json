@@ -41,11 +41,12 @@
     },
     "o:3": {
       "thumbnailOverride": null,
-      "url": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/saul.zip",
+      "url": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Mod-Packages/Ian.Saul.pc.zip",
       "isa": {
         "type": "t:3"
       }
     },
+    }
   },
   "types": {
     "t:1": {
