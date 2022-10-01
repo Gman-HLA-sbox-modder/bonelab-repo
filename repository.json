@@ -6,8 +6,8 @@
   },
   "objects": {
     "o:1": {
-      "title": "SLZ Mods",
-      "description": "Official SLZ Mods",
+      "title": "Ian's' Mods",
+      "description": "Ian's Mods",
       "mods": [
         {
           "ref": "o:2",
@@ -45,7 +45,7 @@
     },
     "o:5": {
       "thumbnailOverride": null,
-      "url": "https://mods.stresslevelzero.com/SLZ.DuckSeason/SLZ.DuckSeason.pc.zip",
+      "url": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Ian.Saul.zip",
       "isa": {
         "type": "t:3"
       }
