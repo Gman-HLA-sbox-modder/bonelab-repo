@@ -30,8 +30,12 @@
       "thumbnailUrl": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Ian.Saul/icon/saul_icon.jpg",
       "manifestUrl": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Ian.Saul/pallet.json",
       "targets": {
-        "pc": {
+        "oculus-quest": {
           "ref": "o:3",
+          "type": "t:3"
+        },
+        "pc": {
+          "ref": "o:4",
           "type": "t:3"
         }
       },
@@ -40,6 +44,13 @@
       }
     },
     "o:3": {
+      "thumbnailOverride": null,
+      "url": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Mod-Packages/Ian.Saul.pc.zip",
+      "isa": {
+        "type": "t:3"
+      }
+    },
+    "o:4": {
       "thumbnailOverride": null,
       "url": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Mod-Packages/Ian.Saul.pc.zip",
       "isa": {
