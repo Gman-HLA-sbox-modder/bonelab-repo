@@ -6,14 +6,14 @@
   },
   "objects": {
     "o:1": {
-      "barcode": "Ian.Saul",
+      "barcode": "SLZ.DuckSeason",
       "title": "Saul",
-      "description": "",
+      "description": "Saul Goodman Avatar",
       "unlockable": false,
       "redacted": false,
       "author": "Ian",
       "version": "0.0.0",
-      "sdkVersion": "0.3.4-1649",
+      "sdkVersion": "0.3.3-1608",
       "internal": false,
       "crates": [
         {
