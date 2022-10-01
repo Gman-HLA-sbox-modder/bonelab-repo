@@ -12,10 +12,6 @@
         {
           "ref": "o:2",
           "type": "t:2"
-        },
-        {
-          "ref": "o:3",
-          "type": "t:2"
         }
       ],
       "isa": {
@@ -25,17 +21,17 @@
     "o:2": {
       "barcode": "Ian.Saul",
       "title": "[Breaking Bad: Criminal Elements] Saul Goodman",
-      "description": "",
+      "description": "Saul Goodman Avatar",
       "author": "Ian",
       "version": "0.1.3",
-      "sdkVersion": "0.3.0-1486",
+      "sdkVersion": "0.3.4-1649",
       "internal": false,
       "tags": [],
-      "thumbnailUrl": "https://mods.stresslevelzero.com/SLZ.DuckSeason/thumbnail.png",
+      "thumbnailUrl": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Ian.Saul/icon/saul_icon.jpg",
       "manifestUrl": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Ian.Saul/pallet.json",
       "targets": {
         "pc": {
-          "ref": "o:5",
+          "ref": "o:3",
           "type": "t:3"
         }
       },
@@ -43,9 +39,9 @@
         "type": "t:2"
       }
     },
-    "o:5": {
+    "o:3": {
       "thumbnailOverride": null,
-      "url": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Ian.Saul.zip",
+      "url": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/saul.zip",
       "isa": {
         "type": "t:3"
       }
