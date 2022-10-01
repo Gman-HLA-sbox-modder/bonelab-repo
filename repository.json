@@ -12,10 +12,6 @@
         {
           "ref": "o:2",
           "type": "t:2"
-        },
-        {
-          "ref": "o:3",
-          "type": "t:2"
         }
       ],
       "isa": {
@@ -35,11 +31,11 @@
       "manifestUrl": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Ian.Saul/pallet.json",
       "targets": {
         "oculus-quest": {
-          "ref": "o:4",
+          "ref": "o:3",
           "type": "t:3"
         },
         "pc": {
-          "ref": "o:5",
+          "ref": "o:4",
           "type": "t:3"
         }
       },
@@ -48,54 +44,15 @@
       }
     },
     "o:3": {
-      "barcode": "SLZ.HoverJunkers",
-      "title": "test2",
-      "description": "Hover Junkers Avatars",
-      "author": "SLZ",
-      "version": "0.0.0",
-      "sdkVersion": "0.3.0-1486",
-      "internal": false,
-      "tags": [],
-      "thumbnailUrl": "https://mods.stresslevelzero.com/SLZ.HoverJunkers/thumbnail.png",
-      "manifestUrl": "https://mods.stresslevelzero.com/SLZ.HoverJunkers/pallet.json",
-      "targets": {
-        "oculus-quest": {
-          "ref": "o:6",
-          "type": "t:3"
-        },
-        "pc": {
-          "ref": "o:7",
-          "type": "t:3"
-        }
-      },
+      "thumbnailOverride": null,
+      "url": "https://filebin.net/6o3u95rg2g0o4n56/Ian.Saul.zip",
       "isa": {
-        "type": "t:2"
+        "type": "t:3"
       }
     },
     "o:4": {
       "thumbnailOverride": null,
       "url": "https://filebin.net/6o3u95rg2g0o4n56/Ian.Saul.zip",
-      "isa": {
-        "type": "t:3"
-      }
-    },
-    "o:5": {
-      "thumbnailOverride": null,
-      "url": "https://filebin.net/6o3u95rg2g0o4n56/Ian.Saul.zip",
-      "isa": {
-        "type": "t:3"
-      }
-    },
-    "o:6": {
-      "thumbnailOverride": null,
-      "url": "https://mods.stresslevelzero.com/SLZ.HoverJunkers/SLZ.HoverJunkers.android.zip",
-      "isa": {
-        "type": "t:3"
-      }
-    },
-    "o:7": {
-      "thumbnailOverride": null,
-      "url": "https://mods.stresslevelzero.com/SLZ.HoverJunkers/SLZ.HoverJunkers.pc.zip",
       "isa": {
         "type": "t:3"
       }
