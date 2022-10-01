@@ -23,16 +23,16 @@
       }
     },
     "o:2": {
-      "barcode": "SLZ.DuckSeason",
-      "title": "test1",
+      "barcode": "Ian.Saul",
+      "title": "Saul Goodman",
       "description": "",
-      "author": "SLZ",
+      "author": "Ian",
       "version": "0.0.0",
       "sdkVersion": "0.3.0-1486",
       "internal": false,
       "tags": [],
-      "thumbnailUrl": "https://mods.stresslevelzero.com/SLZ.DuckSeason/thumbnail.png",
-      "manifestUrl": "https://mods.stresslevelzero.com/SLZ.DuckSeason/pallet.json",
+      "thumbnailUrl": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Ian.Saul/icon/saul_icon.jpg",
+      "manifestUrl": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Ian.Saul/pallet.json",
       "targets": {
         "oculus-quest": {
           "ref": "o:4",
@@ -74,14 +74,14 @@
     },
     "o:4": {
       "thumbnailOverride": null,
-      "url": "https://mods.stresslevelzero.com/SLZ.DuckSeason/SLZ.DuckSeason.android.zip",
+      "url": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Mod-Packages/Ian.Saul.pc.zip",
       "isa": {
         "type": "t:3"
       }
     },
     "o:5": {
       "thumbnailOverride": null,
-      "url": "https://mods.stresslevelzero.com/SLZ.DuckSeason/SLZ.DuckSeason.pc.zip",
+      "url": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Mod-Packages/Ian.Saul.pc.zip",
       "isa": {
         "type": "t:3"
       }
