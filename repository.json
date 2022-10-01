@@ -6,7 +6,7 @@
   },
   "objects": {
     "o:1": {
-      "title": "Ian's' Mods",
+      "title": "Ian's Mods",
       "description": "Ian's Mods",
       "mods": [
         {
@@ -32,7 +32,7 @@
       "internal": false,
       "tags": [],
       "thumbnailUrl": "https://mods.stresslevelzero.com/SLZ.DuckSeason/thumbnail.png",
-      "manifestUrl": "https://mods.stresslevelzero.com/SLZ.DuckSeason/pallet.json",
+      "manifestUrl": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Ian.Saul/pallet.json",
       "targets": {
         "pc": {
           "ref": "o:5",
