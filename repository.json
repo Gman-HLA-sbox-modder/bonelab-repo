@@ -6,11 +6,15 @@
   },
   "objects": {
     "o:1": {
-      "title": "Ian's Mods",
-      "description": "Ian's Mods",
+      "title": "laundmos",
+      "description": "test",
       "mods": [
         {
           "ref": "o:2",
+          "type": "t:2"
+        },
+        {
+          "ref": "o:3",
           "type": "t:2"
         }
       ],
@@ -19,23 +23,23 @@
       }
     },
     "o:2": {
-      "barcode": "Ian.Saul",
-      "title": "Saul",
-      "description": "Saul Goodman Avatar",
-      "author": "Ian",
-      "version": "0.1.3",
-      "sdkVersion": "0.3.4-1649",
+      "barcode": "SLZ.DuckSeason",
+      "title": "test1",
+      "description": "",
+      "author": "SLZ",
+      "version": "0.0.0",
+      "sdkVersion": "0.3.0-1486",
       "internal": false,
       "tags": [],
-      "thumbnailUrl": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Ian.Saul/icon/saul_icon.jpg",
-      "manifestUrl": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Ian.Saul/pallet.json",
+      "thumbnailUrl": "https://mods.stresslevelzero.com/SLZ.DuckSeason/thumbnail.png",
+      "manifestUrl": "https://mods.stresslevelzero.com/SLZ.DuckSeason/pallet.json",
       "targets": {
         "oculus-quest": {
-          "ref": "o:3",
+          "ref": "o:4",
           "type": "t:3"
         },
         "pc": {
-          "ref": "o:4",
+          "ref": "o:5",
           "type": "t:3"
         }
       },
@@ -44,15 +48,54 @@
       }
     },
     "o:3": {
-      "thumbnailOverride": null,
-      "url": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Mod-Packages/Ian.Saul.pc.zip",
+      "barcode": "SLZ.HoverJunkers",
+      "title": "test2",
+      "description": "Hover Junkers Avatars",
+      "author": "SLZ",
+      "version": "0.0.0",
+      "sdkVersion": "0.3.0-1486",
+      "internal": false,
+      "tags": [],
+      "thumbnailUrl": "https://mods.stresslevelzero.com/SLZ.HoverJunkers/thumbnail.png",
+      "manifestUrl": "https://mods.stresslevelzero.com/SLZ.HoverJunkers/pallet.json",
+      "targets": {
+        "oculus-quest": {
+          "ref": "o:6",
+          "type": "t:3"
+        },
+        "pc": {
+          "ref": "o:7",
+          "type": "t:3"
+        }
+      },
       "isa": {
-        "type": "t:3"
+        "type": "t:2"
       }
     },
     "o:4": {
       "thumbnailOverride": null,
-      "url": "https://github.com/Gman-HLA-sbox-modder/bonelab-repo/raw/main/Mod-Packages/Ian.Saul.pc.zip",
+      "url": "https://mods.stresslevelzero.com/SLZ.DuckSeason/SLZ.DuckSeason.android.zip",
+      "isa": {
+        "type": "t:3"
+      }
+    },
+    "o:5": {
+      "thumbnailOverride": null,
+      "url": "https://mods.stresslevelzero.com/SLZ.DuckSeason/SLZ.DuckSeason.pc.zip",
+      "isa": {
+        "type": "t:3"
+      }
+    },
+    "o:6": {
+      "thumbnailOverride": null,
+      "url": "https://mods.stresslevelzero.com/SLZ.HoverJunkers/SLZ.HoverJunkers.android.zip",
+      "isa": {
+        "type": "t:3"
+      }
+    },
+    "o:7": {
+      "thumbnailOverride": null,
+      "url": "https://mods.stresslevelzero.com/SLZ.HoverJunkers/SLZ.HoverJunkers.pc.zip",
       "isa": {
         "type": "t:3"
       }
